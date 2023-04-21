@@ -1,0 +1,134 @@
+.footer{
+    width: 100%;
+    height: auto;
+    background-color:#1D1E22;
+}
+
+.links{
+    display: flex;
+    justify-content: space-between;
+    height: 440px;
+}
+
+.footerLogo{
+  padding-top: 120px;
+}
+
+.quick{
+    margin-top: 76px;
+    margin-left: 152px;
+
+}
+
+.quick h4{
+    margin-bottom: 16px; 
+    font-family: Monument Extended;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+   
+
+}
+
+.quick p {
+    margin-bottom: 5px;
+    color: #FFFFFF;
+    font-family: Red Rose;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+
+}
+
+.marketplac{
+    margin-top: 76px;
+    margin-left: 100px;
+}
+
+.marketplac h4{
+    margin-bottom: 16px; 
+    font-family: Monument Extended;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 18px;
+    letter-spacing: 0px;
+    color: #FFFFFF;
+}
+.marketplac p {
+    margin-bottom: 5px;
+    color: #FFFFFF;
+    font-family: Red Rose;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    text-align: left;
+}
+
+.signUp{
+    height: 254px;
+    width: 400px;
+    border-radius: 30px;
+    padding: 80px 48px 80px 48px;
+    background: #52FFE0;
+    margin-left: 100px;
+    margin-top: 70px;
+
+}
+
+.signUp h3{
+    font-family: Monument Extended;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 29px;
+    letter-spacing: 0.04em;
+    color: #1D1E22;
+}
+
+.signUp p {
+    font-family: Red Rose;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    letter-spacing: 0px;
+    color: #1D1E22;
+    padding-top: 15px;
+    border-bottom:1px solid #44d1b7;
+    padding-bottom: 15px;
+}
+
+.signUp span{
+    margin-left: 120px;
+}
+
+.social{
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 40px;
+}
+
+.socialLinks{
+    display: flex;
+}
+
+.fa{
+    margin-right: 20px;
+    height: 18px;
+    width: 22.5px;
+    color: #818698;
+}
+
+.social p {
+    font-family: Red Rose;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #DFE5F5;
+
+
+}

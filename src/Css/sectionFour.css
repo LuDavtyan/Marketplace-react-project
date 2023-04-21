@@ -1,0 +1,122 @@
+.section4{
+    width: 100%;
+    height: auto;
+    background-color:#101010 ;
+    
+}
+
+.section4 h3 {
+    font-family: Monument Extended;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    padding-top: 120px;
+}
+
+.trandingNftsBox{
+    width: 100%;
+    height: 658px;
+    display: flex;
+    margin-top: 72px;
+    
+}
+
+.trandingNftsBox img {
+    height: 282px;
+    width: 290px;
+  
+}
+
+.trandingImg{
+  display: flex;
+  justify-content: center;
+}
+
+.NftsBox{
+    height: 462px;
+    width: 290px;
+    border-radius: 30px;
+    background-color: #1D1E22; 
+    margin-right: 15px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+}
+
+.NftsBox p {
+    font-family: Red Rose;
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 30px;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    margin-left: 15px;
+    margin-top: 15px;
+
+}
+
+.NftsBox span {
+    font-family: Red Rose;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 20px;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    margin-top: 8px;
+    margin-left: 15px;
+
+}
+
+.priceInfo{
+    height: 80px;
+    width: 274px;
+    border-radius: 20px;
+    background: #2C2D31;
+    margin: 20px 13px 13px 8px;
+    color: #FFFFFF;
+    display: flex;
+    justify-content: space-between;
+ 
+}
+
+
+.priceInfo p {
+    font-family: Red Hat Display;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 21px;
+    letter-spacing: 0.04em;
+    color: #999999;
+    margin-top: 12px;
+    margin-bottom: 8px;
+    margin-right: 17px;
+
+}
+
+.left2{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    border: none;
+    position: absolute;
+    top: 2840px;
+    left: 155px;
+    font-size: 30px;
+    background: #2C2D31;
+    color: #FFFFFF;
+}
+
+.right2{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    border: none;
+    position: absolute;
+    top: 2840px;
+    right: 90px;
+    font-size: 30px;
+    background: #2C2D31;
+    color: #FFFFFF;
+}

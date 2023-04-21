@@ -1,0 +1,154 @@
+.section3{
+    width: 100%;
+    height: auto;
+    background-color: #1D1E22;
+    
+}
+
+.section3 h3 {
+    font-family: Monument Extended;
+    font-size: 30px;
+    font-weight: 400;
+    line-height: 36px;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+
+.coll{
+    padding-top: 137px;
+}
+
+.days{
+    display: flex;
+    height: 70px;
+    width: 293px;
+    border-radius: 20px;
+    background: #2C2D31;
+    margin-top: 120px;
+}
+
+.days7{
+    height: 60px;
+    width: 150px;
+    border-radius: 20px;
+    text-align: center;
+    background: #1D1E22;
+    margin: 5px 0 5px 5px;
+    margin-right: 35px;
+
+}
+
+.days7 p {
+    padding-top: 22px;
+    color: #FFFFFF;    
+}
+
+.days30 p{
+    padding-top: 22px;
+    color: #FFFFFF;  
+}
+
+.topColl{
+    height: 120px;
+    width: 369px;
+    border-radius: 30px;
+    background: #2C2D31;
+    margin-right: 9px;
+    margin-top: 30px;
+    display: flex;
+}
+
+.collections{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+
+.topColl img {
+    height: 100px;
+    width: 100px;
+    border-radius: 30px;
+    margin: 10px 0 10px 10px;
+
+}
+
+.topColl p{
+    font-family: Red Rose;
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 30px;
+    letter-spacing: 0em;
+    color: #FFFFFF;
+    
+
+}
+
+.name{
+    margin-top: 33px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15px;
+}
+
+
+.floor{
+    font-family: Red Rose;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20px;
+    color: #818698;
+}
+.box{
+    width: 70px;
+    height: 40px;
+    display: flex;
+    flex-wrap: wrap;
+    font-size: 14px;
+}
+
+.avatarname{
+    margin-right: 33px;
+}
+.eth{
+    color: #FFFFFF;
+}
+.price{
+    color:#818698;
+    margin-top: 3px;
+}
+
+.percent{
+    color: aqua;
+    font-size: 10px;
+    margin-top: 3px;
+}
+
+.allColl{
+    display: flex;
+    justify-content: center;
+    margin-top: 72px;
+    padding-bottom: 86px;
+}
+
+.allColl button{
+    height: 50px;
+    width: 180px;
+    border-radius: 50px;
+    background-color:  #52FFE0;
+    font-family: Red Rose;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.02em;
+    text-align: center;
+    color: #2C2D31;
+    border: none;
+    cursor: pointer;
+
+}

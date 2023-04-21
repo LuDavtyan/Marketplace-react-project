@@ -1,0 +1,122 @@
+.section1{
+    width: 100%;
+    height: auto;
+    background-color:#101010;
+}
+
+.collectArt{
+    height: 778px;
+    display: flex;
+    justify-content: space-around; 
+   
+
+}
+
+.artwork{
+     padding-top:150px ;
+}
+
+.nft{
+    height: 317px;
+ 
+}
+
+.nft h2{
+    font-family: Monument Extended;
+    font-size: 36px;
+    font-weight: 400;
+    height: 43px;
+    width: 450px;
+    color: #FFFFFF;
+}
+
+.nft p {
+    height: 258px;
+    font-family: Monument Extended;
+    font-size: 72px;
+    font-weight: 400;
+    color: #FFFFFF;
+    text-transform: uppercase;
+}
+
+.wing{
+    height: 615px;
+    width: 616px;
+    border-radius: 180px;
+    box-shadow: -3px 1px 78px -10px   #7F1CFC;
+}
+
+.wingArt{
+    margin-top: 80px;
+    margin-left: 50px;
+}
+
+.artwork button{
+    height: 65px;
+    width: 150px;
+    border-radius: 50px;
+    background: #52FFE0;
+    border: none;
+    font-family: Red Rose;
+    font-size: 18px;
+    font-weight: 700;
+    text-align: center;
+    color: #2C2D31;
+    margin-right: 30px;
+
+    
+}
+
+.creators{
+    height: 50px;
+    width: 118px;
+}
+
+.explore{
+  display: flex;
+  align-items: center;
+  margin-right: 50px;
+}
+
+.arrow{
+    height: 79px;
+    width: 113px;
+    left: 465px;
+    bottom: 90px;
+    position: absolute;
+}
+
+.funfact{
+    display: flex;
+    margin-top: 80px;
+}
+
+.fact p{
+    font-family: Monument Extended;
+    font-size: 30px;
+    font-weight: 400;
+    color: #FFFFFF;
+}
+
+.fact{
+    margin-right: 120px;
+}
+
+.fact span{
+    font-family: Red Rose;
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: #818698;
+    
+}
+
+.playIcon{
+    position: absolute;
+    z-index: 9;
+    bottom: -50px;
+    left: 670px;
+    width: 150px;
+    height: 150px;
+
+}
